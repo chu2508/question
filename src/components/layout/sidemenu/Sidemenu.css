@@ -1,0 +1,14 @@
+.menu-bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: calc(100vh - 125px);
+  background-color: #223048;
+}
+.menu-bar-icon {
+  width: 40px;
+  height: 40px;
+  margin: 10px 5px;
+  border-radius: 50%;
+  background-color: #c4c4c4;
+}
